@@ -1,0 +1,35 @@
+.color-white{
+	color:#fff;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+a:hover{
+	color:#fff;
+}
+ul li{
+	list-style-type: none;
+	font-size: 20px;
+}
+#navbarNav ul#nav-right li{
+	padding: 10px;
+	border-bottom:1px solid #fff;
+}
+.slide img{
+	width: 1350px;
+    height: 520px;
+}
+div.hobby-list ul li{
+	padding: 10px;
+    color: #fff;
+    margin: 5px;
+    background: #28a745;
+}
+
+div.user-hobby ul li{
+	padding: 10px;
+    color: #fff;
+    margin: 5px;
+    background: #28a745;
+}
