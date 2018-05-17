@@ -19,11 +19,13 @@ mix.scripts([
 
 	'resources/assets/js/jquery.min.js',
 	'resources/assets/js/bootstrap.min.js',
-	'resources/assets/js/custom.js'
+	'resources/assets/js/custom.js',
+	'resources/assets/js/dataTable.js'
 	], 'public/js/all.js');
 
 mix.styles([
 	'resources/assets/css/bootstrap.min.css',
-	'resources/assets/css/custom.css'
+	'resources/assets/css/custom.css',
+	'resources/assets/css/dataTable.css'
 	
 	],'public/css/all.css');
