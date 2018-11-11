@@ -73,3 +73,6 @@
     </div> 
 </div>
 <!-- modal ends -->
+<script>
+    $('.dropdown').dropdown();
+</script>
